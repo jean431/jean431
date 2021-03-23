@@ -205,7 +205,7 @@ http://stream.tvtap.live:8081/live/fr-comedieplus.stream/playlist.m3u8?wmsAuthSi
 http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU5OjU5IEFNJmhhc2hfdmFsdWU9Rk1jdXRObWZIMHhMaUh6RVhpWnd3UT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryScience" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="CanalSAT",DiscoveryScience
 http://stream.tvtap.live:8081/live/fr-discoveryscience.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAwOjMxIFBNJmhhc2hfdmFsdWU9QzVaTEhHei9rU3dFenE5ZEtyN1Mwdz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-id="" tvg-name="DiscoveryChannel" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="CanalDAT",DiscoveryChannel
+#EXTINF:-1 tvg-id="" tvg-name="DiscoveryChannel" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="CanalSAT",DiscoveryChannel
 http://stream.tvtap.live:8081/live/fr-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAxOjE3IFBNJmhhc2hfdmFsdWU9ZmtDbFg4ZC8wYWh0aHJFaC9jOGJRdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="CanalSAT",NatGeo
 http://stream.tvtap.live:8081/live/fr-natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjAyOjI0IFBNJmhhc2hfdmFsdWU9TVQyRkhyQnc3TW42cUttQ3lWeG9Kdz09JnZhbGlkbWludXRlcz0yMA==
