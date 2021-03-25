@@ -221,8 +221,9 @@ http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8?wmsAuthSign=c2Vy
 http://stream.tvtap.live:8081/live/fr-sfr3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjA1OjA3IFBNJmhhc2hfdmFsdWU9elVtMURTY2hENlhHSExxMVZDcXF2dz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="Ushuaïa" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/1280px-Ushua%C3%AFa_TV_logo_2019.svg.png" group-title="CanalSAT",Ushuaïa
 http://stream.tvtap.live:8081/live/fr-ushuaiatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjA2OjE2IFBNJmhhc2hfdmFsdWU9UWdkSVlhMkpjYkV1UFZtSnA2d3cwdz09JnZhbGlkbWludXRlcz0yMA==
-#EXTM3U:-1 tvg-id="" tvg-name="▼▲▼FRANCAIS▼▲▼" tvg-logo="" group-title="FILM FR",▼▲▼FILM FR▼▲▼ 
-#EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://i.pinimg.com/originals/57/db/18/57db18b1ce912844b18a8fb6ec025d26.png" group-title="FILM FR",Mulan
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="=== MOVIES ===" tvg-logo="" group-title="MOVIES",=== MOVIES ===
+ #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://i.pinimg.com/originals/57/db/18/57db18b1ce912844b18a8fb6ec025d26.png" group-title="MOVIES"FILM FR,Mulan
 http://stream.youp.lol/v/vMEmvfhCnuogg26mTxD50v0kE3u.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dictator" tvg-logo="https://e7.pngegg.com/pngimages/249/837/png-clipart-aladeen-film-poster-dictator-trailer-dictator-label-film-poster.png" group-title="FILM FR",Dictator
 http://stream.youp.lol/a/5kRL5nyuFCaoaztfzcDIC2ECrzy.mp4
