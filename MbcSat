@@ -342,4 +342,9 @@ http://stream.youp.lol/l/Le%20Parc%20des%20merveilles.mp4
 http://stream.youp.lol/l/Les%20Zvads%20de%20lespace%20(Escape%20from%20Planet%20Earth)%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Escape From Planet Earth" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/915r%2BnZT2%2BL._SL1500_.jpg" group-title="Anime FR",Escape From Planet Earth
 
+#EXTINF:-1 tvg-id="" tvg-name="InfoSport+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/InfosportPlus.svg/1200px-InfosportPlus.svg.png" group-title="SPORT",lnfoSport+l
+http://stream.tvtap.live:8081/live/fr-infosports.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIxIDY6MDY6MDMgUE0maGFzaF92YWx1ZT0vMWJDVGVsNjBkSEg3bktmRUVTWlJBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-id="" tvg-name="Voyage" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Voyage_logo.png" group-title="CanalSAT",Voyage
+http://stream.tvtap.live:8081/live/fr-voyagetv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIxIDY6MTA6MTUgUE0maGFzaF92YWx1ZT1FVGJtQ1JTVUo1Yk5HMGJRSUpOdHVRPT0mdmFsaWRtaW51dGVzPTIw
+
 
