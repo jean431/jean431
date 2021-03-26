@@ -223,6 +223,8 @@ http://stream.tvtap.live:8081/live/fr-sfr3.stream/playlist.m3u8?wmsAuthSign=c2Vy
 http://stream.tvtap.live:8081/live/fr-ushuaiatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjA2OjE2IFBNJmhhc2hfdmFsdWU9UWdkSVlhMkpjYkV1UFZtSnA2d3cwdz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Un Prince a New-York 2" tvg-logo="https://miro.medium.com/max/1200/0*1f5BKUJsNXyCqIls.jpg" group-title="FILM FR",Un Prince a New-York 2
+https://vilea.evosrv.com/EvoStreams/xJmlTX1bnnSb0cqyXvt8.avi.mp4?md5=ymFnr2H03L-d0ZrDA915YQ&expires=1616756701
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://i.pinimg.com/originals/57/db/18/57db18b1ce912844b18a8fb6ec025d26.png" group-title="FILM FR",Mulan
 http://stream.youp.lol/v/vMEmvfhCnuogg26mTxD50v0kE3u.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dictator" tvg-logo="https://e7.pngegg.com/pngimages/249/837/png-clipart-aladeen-film-poster-dictator-trailer-dictator-label-film-poster.png" group-title="FILM FR",Dictator
