@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="CanalSAT",TF1
+#EXTINF:-1 tvg-id="Live TV" tvg-name="TF1" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="CanalSAT",TF1
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/tech_tf1_ott_mobile-155120/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="CanalSAT",TF1 Series Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
@@ -223,11 +223,11 @@ http://stream.tvtap.live:8081/live/fr-sfr3.stream/playlist.m3u8?wmsAuthSign=c2Vy
 http://stream.tvtap.live:8081/live/fr-ushuaiatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjA2OjE2IFBNJmhhc2hfdmFsdWU9UWdkSVlhMkpjYkV1UFZtSnA2d3cwdz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Jonh Wick" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="FILM FR",John Wick
+#EXTINF:-1 tvg-id="Movies" tvg-name="Jonh Wick" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="FILM FR",John Wick
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%20(2014).mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jonh Wick 2" tvg-logo="https://i.pinimg.com/originals/4c/10/bf/4c10bf923844ea45c49328baaf3f8a6f.jpg" group-title="FILM FR",John Wick 2
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%202%20(2017).mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jonh WickParabellum" tvg-logo="https://i.pinimg.com/originals/0d/b5/9c/0db59c3ee9261d24da50ac8c4e5ccd3e.jpg" group-title="FILM FR",John Wick Parabellum
+#EXTINF:-1 tvg-id="Series" tvg-name="Jonh WickParabellum" tvg-logo="https://i.pinimg.com/originals/0d/b5/9c/0db59c3ee9261d24da50ac8c4e5ccd3e.jpg" group-title="FILM FR",John Wick Parabellum
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%20-%20Parabellum%20(2019).mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://i.pinimg.com/originals/57/db/18/57db18b1ce912844b18a8fb6ec025d26.png" group-title="FILM FR",Mulan
 http://stream.youp.lol/v/vMEmvfhCnuogg26mTxD50v0kE3u.mp4
