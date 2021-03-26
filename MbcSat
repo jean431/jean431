@@ -237,8 +237,16 @@ http://stream.youp.lol/a/5a1WZ8qgcxw9gLJD7JQVfHeY0NN.mp4
 http://stream.youp.lol/a/AjffVYG9lLpRWNnUmTrtfqZbOsB.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Le roi lion" tvg-logo="https://media.vogue.fr/photos/5c2f3f112b0fe3c6c88dcf7a/master/pass/le_roi_lion_2019_4468.jpeg" group-title="FILM FR",Le roi lion
 http://stream.youp.lol/a/Akd4qXv32iCoYRUAuShXKAlY6OL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Faster" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Faster2010Poster.jpg" group-title="FILM  FR",Faster
+http://stream.youp.lol/z/zTfzTYdFiK4rTweyfmQeQH8bxq2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fast and furious" tvg-logo="https://img.discogs.com/6tBRAeX1o5fAByDHUMTlwh0ctF8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2451221-1284773104.jpeg.jpg" group-title="FILM FR", Fast and furious
 http://stream.youp.lol/a/AkSMd8AXSpA1L1SbBPc2AfVJfmE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast 4" tvg-logo="https://i.pinimg.com/564x/87/d9/3a/87d93a7995c142ad0bfbd3a260405f3a.jpg" group-title="FILM  FR",Fast 4
+http://stream.youp.lol/r/rN1Rn5tRBAxnq9pxrkdvUUYrkyn.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast 7" tvg-logo="https://i.pinimg.com/originals/11/3e/db/113edb59d006280226abb82d8e27bf36.jpg" group-title="FILM  FR",Fast 7
+http://stream.youp.lol/w/wjVn1Qng8B3ySvfJr4ovuehI141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast 8" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/718nCn%2Bqk0L._SL1410_.jpg" group-title="FILM  FR",Fast 8
+http://stream.youp.lol/p/pIR2YHJIgcNzFtDZgsg3YG656IY.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg" group-title="FILM FR",Avatar
 http://stream.youp.lol/a/upd6F9IIMbzSl5reXsyMk7xH4Ou.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monster & cie" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Ed5rXQ8BL._SL1500_.jpg" group-title="Anime FR",Monster & cie
@@ -286,7 +294,6 @@ http://stream.youp.lol/h/hNYEvfFEI00pbb3nSsFqFuyhl3l.mp4
 http://stream.youp.lol/i/Independence%20Day%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Independence Day 2" tvg-logo="http://4.bp.blogspot.com/-d8_n3NBqTLQ/Vm3103qp_aI/AAAAAAAAACM/Aki4C3_kjoM/s1600/Independence-Day-2-Poster-Teaser.jpg" group-title="FILM FR",Independence Day 2
 http://stream.youp.lol/i/independence%20day%202.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="Shazam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Legosmm.jpg" group-title="Anime FR",Shazam
 http://stream.youp.lol/z/ziIyuNNNwYqv0qbOpV9VvvdnRBb.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Asterix" tvg-logo="https://fr.web.img6.acsta.net/r_512_288/pictures/14/12/05/11/15/546054.jpg" group-title="Anime FR",Asterix
@@ -368,6 +375,46 @@ http://188.165.227.112/portail/films/Ghost%20in%20the%20Shell%202017%20QC-ENG%20
 http://188.165.227.112/portail/films/Ah!%20Si%20j'%c3%a9tais%20riche.2002.French.DvdRip.x264.AC3%205.1-touriste.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Le Hobbit La bataille des cinq armees" tvg-logo="https://vodimages.myt.mu/moviedb/movie//uCYyjSxv0dk8TDf2qQnwUSF3Nfy.jpg" group-title="FILM FR",Le Hobbit La bataille des cinq armees
 http://188.165.227.112/portail/films/Le.Hobbit.La.bataille.des.cinq.armees.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spenser" tvg-logo="https://pbs.twimg.com/media/EXPkIcSUwAETNHq.jpg" group-title="FILM  FR",Spenser
+http://stream.youp.lol/a/fePczipv6ZzDO2uoww4vTAu2Sq3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dead Again" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51uYmZL5y%2BL._AC_UL600_SR405,600_.jpg" group-title="FILM  FR",Dead Again
+http://stream.youp.lol/d/Dead%20Again%20in%20Tombstone.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salyut 7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71+uaD7A0IL._RI_.jpg" group-title="FILM  FR",Salyut 7
+http://stream.youp.lol/f/FE753E6E527A2BAE67E4E58987B97.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy and Alien" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM1MzkyNzQ3OV5BMl5BanBnXkFtZTcwMDk1NTg2NQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="FILM  FR",Cowboy and Alien
+http://stream.youp.lol/c/cowboy%20et%20alien.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor" tvg-logo="https://www.themoviedb.org/t/p/w500/yw7gr7DhHHVTLlO8Se8uH17TDMA.jpg" group-title="FILM  FR",Thor
+http://stream.youp.lol/c/cZFz5cTmzem6Q15v1jguT63hi52.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divergent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Divergent.jpg" group-title="FILM  FR",Divergent
+http://stream.youp.lol/d/Divergente%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divergent 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Insurgent_poster.jpg" group-title="FILM  FR",Divergent 2
+http://stream.youp.lol/d/Divergente%202%20%20Linsurrection.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divergent 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk2OTc5YzQtMjAwMS00YWY4LTk1ZWItOTgyMmRkMGU4ZmY1XkEyXkFqcGdeQXVyMzQ1MzUwMTE@._V1_UY1200_CR121,0,630,1200_AL_.jpg" group-title="FILM  FR",Divergent 3
+http://stream.youp.lol/d/Divergente%203%20%20Au-del%20du%20mur%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ironman" tvg-logo="https://wallpaperaccess.com/full/1925942.jpg" group-title="FILM  FR",Ironman
+http://stream.youp.lol/i/Iron%20Man%201%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ironman 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg" group-title="FILM  FR",Ironman 2
+http://stream.youp.lol/i/Iron%20Man%202%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ironman 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_.jpg" group-title="FILM  FR",Ironman 3
+http://stream.youp.lol/i/Iron%20Man%203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Captain America Civilwar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg" group-title="FILM  FR",Captain America Civil War
+http://stream.youp.lol/c/Captain%20America%20%20Civil%20War%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World" tvg-logo="https://static.toiimg.com/thumb/msid-64539776,imgsize-93700,width-800,height-600,resizemode-75/64539776.jpg" group-title="FILM  FR",Jurassic World
+http://stream.youp.lol/j/Jurassic%20World%202015%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/wb-2069796_6000119228-Full-Image_GalleryCover-en-GB-1572950922869._UR1920,1080_RI_.jpg" group-title="FILM  FR",Godzilla
+http://stream.youp.lol/r/rmM0NovZxrIT9f6OIoUyzWwRQ1L.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Sky" tvg-logo="https://flxt.tmsimg.com/assets/p9257449_p_v10_ag.jpg" group-title="FILM  FR",Iron Sky
+http://stream.youp.lol/y/y45e8Sh6cVbnE7o7SEdX2e9RTQk.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Knight and Day" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZiZGU0OWItOWNiOC00MThmLWIwZjYtZTA3MjRmM2VlYjk4XkEyXkFqcGdeQXVyMjg2ODE2ODY@._V1_.jpg" group-title="FILM  FR",knight and Day
+http://stream.youp.lol/y/yv9JGzunJkQhIXulqQSYbo4BdhC.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Begins" tvg-logo="https://i.pinimg.com/originals/ba/b3/d1/bab3d1fc77e7c4936fef637b5713cf57.jpg" group-title="FILM  FR",Batman Begins
+http://stream.youp.lol/u/uheYLZ7KxfGolGOJr6nnKiNuQKh.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dark Knight Rise" tvg-logo="https://m.media-amazon.com/images/M/MV5BODZkYTdhMzQtYzMxYi00OGVjLTgzOTEtYTU5OTBjZDljZDM5XkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_.jpg" group-title="FILM  FR",Dark knight Rise
+http://stream.youp.lol/z/zxyz6Ui18OVogzsQGErGOJ07CBP.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unstoppable" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Unstoppable_Poster.jpg/220px-Unstoppable_Poster.jpg" group-title="FILM  FR",Unstoppable
+http://stream.youp.lol/u/Unstoppable.mp4
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="L'age de glace 2" tvg-logo="https://www.telerama.fr/sites/tr_master/files/3eb6b9ba-95fe-4dbe-bcec-aab795fe1280_2.jpg" group-title="Anime FR",L'age de glace 2
 http://188.165.227.112/portail/films/L'%c3%a2ge%20de%20glace%204%20-%20la%20d%c3%a9rive%20des%20continents%20FRENCH%20DVDRip%20Xvid-NERD.avi
