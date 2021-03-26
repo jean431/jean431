@@ -223,10 +223,6 @@ http://stream.tvtap.live:8081/live/fr-sfr3.stream/playlist.m3u8?wmsAuthSign=c2Vy
 http://stream.tvtap.live:8081/live/fr-ushuaiatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjA2OjE2IFBNJmhhc2hfdmFsdWU9UWdkSVlhMkpjYkV1UFZtSnA2d3cwdz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="2 Hearts" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81R35uuejJL._RI_.jpg" group-title="FILM FR",2 Hearts
-https://luma.evosrv.com/EvoStreams/wA2lXizwnNmrKCWzEo9s.avi.mp4?md5=BsU_mqSXXEBUZ0C-c79zqQ&expires=1616758382
-#EXTINF:-1 tvg-id="" tvg-name="Un Prince a New-York 2" tvg-logo="https://miro.medium.com/max/1200/0*1f5BKUJsNXyCqIls.jpg" group-title="FILM FR",Un Prince a New-York 2
-https://vilea.evosrv.com/EvoStreams/xJmlTX1bnnSb0cqyXvt8.avi.mp4?md5=ymFnr2H03L-d0ZrDA915YQ&expires=1616756701
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://i.pinimg.com/originals/57/db/18/57db18b1ce912844b18a8fb6ec025d26.png" group-title="FILM FR",Mulan
 http://stream.youp.lol/v/vMEmvfhCnuogg26mTxD50v0kE3u.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dictator" tvg-logo="https://e7.pngegg.com/pngimages/249/837/png-clipart-aladeen-film-poster-dictator-trailer-dictator-label-film-poster.png" group-title="FILM FR",Dictator
@@ -263,10 +259,6 @@ http://stream.youp.lol/l/lDOSztEvyOUdrDO5NVoq4CQ28AL.mp4
 http://stream.youp.lol/n/nl55t1nwWaF5uMOuod1J88pS8OT.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Toy Story 4" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_.jpg" group-title="Anime FR",Toy Story 4
 http://stream.youp.lol/q/qWtRA6rfUNm81A7ITDrq6WkfCNy.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Soul" tvg-logo="https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2019/06/soul_logo_rendered_color_.jpg?offset-y=0" group-title="Anime FR",Soul
-https://lera.evosrv.com/EvoStreams/fea75WOPUHUKwehghsYZ.avi.mp4?md5=2aqQZhme-GMuMx0ueBwSHA&expires=1616755444
-#EXTINF:-1 tvg-id="" tvg-name="Raya-et-le-dernier-dragon" tvg-logo="https://miro.medium.com/max/2798/1*To-57BljkwzyKFUp2B40aw.jpeg" group-title="Anime FR",Raya-et-le-dernier-dragon
-https://talia.evosrv.com/EvoStreams/dWXnhhAS5s62rnegInPp.avi.mp4?md5=QQSrQCSDBgdPX7EPFV24tg&expires=1616757366
 
 #EXTINF:-1 tvg-id="" tvg-name="Tomb Raider" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3M2M5MzAtMTdhMC00YzlmLWJiNWUtMTNmMzkxYjA5MjcyXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg" group-title="FILM FR",Tomb Raider
 http://stream.youp.lol/i/ltOkXWOYZoYstuKrMq44yogotHp.mp4
@@ -301,9 +293,6 @@ http://stream.youp.lol/z/ziIyuNNNwYqv0qbOpV9VvvdnRBb.mp4
 http://stream.youp.lol/b/B21515BF71377649EDB88C4D3BD31.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Reine des neige" tvg-logo="https://fr.web.img5.acsta.net/pictures/210/521/21052146_20131023144339759.jpg" group-title="Anime FR",Reine des neige
 http://stream.youp.lol/a/6zbuHXiuCdHZ57fZOlfUknpzCjU.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Reine des neige" tvg-logo="https://fr.web.img5.acsta.net/pictures/210/521/21052146_20131023144339759.jpg" group-title="Anime FR",Reine des neige
-http://stream.youp.lol/l/Le%20Parc%20des%20merveilles.mp4l
-
 #EXTINF:-1 tvg-id="" tvg-name="Prodigy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWUxYTM3MzUtMjYyYS00YjA2LWFhMDItM2Q3MjkyYzg4MGM3XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="Horreur FR",Prodigy
 http://stream.youp.lol/x/xQYkNs1YbosAooLv8u1nXhcGXay.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Crawl" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk4MTliYzgtOGI2Ni00N2I5LTg4MjktZTkzZTE0MWVjNGEyXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_.jpg" group-title="Horreur FR",Crawl
@@ -342,19 +331,99 @@ http://stream.youp.lol/u/Undercover%20Grandpa.mp4
 http://stream.youp.lol/u/uHOcfHEo6i9ovafAlhBdflMHEt5.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" The Hole" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Poster_of_the_movie_The_Hole.jpg" group-title="Horreur FR",The Hole
 http://stream.youp.lol/u/uaHzlrdgSQsBXiP3fDxi8SLBDes.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Justice League" tvg-logo="https://sm.mashable.com/t/mashable_in/photo/default/zack-snyders-justice-league-chapter-titles-are-here-time-to_9pss.960.jpg" group-title="FILM FR",Justice League
-https://luna.evosrv.com/EvoStreams/nNpJpk7vwa9qlmR4VIvK.mkv.mp4?md5=sGv7WvWGdAYGulWdcaRBAQ&expires=1616748747
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Le Parc Des Merveilles" tvg-logo="https://fr.web.img2.acsta.net/pictures/19/01/30/10/36/3139738.jpg" group-title="Anime FR",Le Parc Des Merveilles
 http://stream.youp.lol/l/Le%20Parc%20des%20merveilles.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Escape From Planet Earth" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/915r%2BnZT2%2BL._SL1500_.jpg" group-title="Anime FR",Escape From Planet Earth
 http://stream.youp.lol/l/Les%20Zvads%20de%20lespace%20(Escape%20from%20Planet%20Earth)%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escape From Planet Earth" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/915r%2BnZT2%2BL._SL1500_.jpg" group-title="Anime FR",Escape From Planet Earth
 
 #EXTINF:-1 tvg-id="" tvg-name="InfoSport+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/InfosportPlus.svg/1200px-InfosportPlus.svg.png" group-title="SPORT",lnfoSport+
 http://stream.tvtap.live:8081/live/fr-infosports.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIxIDY6MDY6MDMgUE0maGFzaF92YWx1ZT0vMWJDVGVsNjBkSEg3bktmRUVTWlJBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-id="" tvg-name="Voyage" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Voyage_logo.png" group-title="CanalSAT",Voyage
 http://stream.tvtap.live:8081/live/fr-voyagetv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIxIDY6MTA6MTUgUE0maGFzaF92YWx1ZT1FVGJtQ1JTVUo1Yk5HMGJRSUpOdHVRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 tvg-id="" tvg-name="12years of slave" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",12years of slave
+http://188.165.227.112/portail/films/12.Yeats.a.Slave.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="300 Rise of an Empire" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",300 Rise of an Empire
+http://188.165.227.112/portail/films/300.Rise.of.an.Empire.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="1984" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",1984
+http://188.165.227.112/portail/films/1984%20-%201080p%20FR%20EN%20x264%20aac%20mHDgz.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="A Space Odyssey" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",A Space Odyssey
+http://188.165.227.112/portail/films/2001_-_A_Space_Odyssey.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Alita Battle Angel" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Alita Battle Angel
+http://188.165.227.112/portail/films/Alita.Battle.Angel.2019.MULTi.TRUEFRENCH.1080p.HDLight.x264.AC3-EXTREME.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Avengers Infinity War" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Avengers Infinity War
+http://188.165.227.112/portail/films/Avengers%20-%20Infinity%20War%20(2018)%20%5b1080p%20BluRay%5d%20%5bFR(VFF)-EN%5d%20%5bx265%2010-bit%20AC3%5d%20%5bGWEN%5d.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Avengers Endgame" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Avengers Endgame
+http://188.165.227.112/portail/films/Avengers%20Endgame%202019%201080p%20VFF%20EN%20X264%20AC3-mHDgz.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Batman Begins" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Batman Begins
+http://188.165.227.112/portail/films/Batman%20Begins%20DvdRip%20VostFr.avi
+
+#EXTINF:-1 tvg-id="" tvg-name="Batman The Dark Knight" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Batman The Dark Knight
+http://188.165.227.112/portail/films/Batman%20The%20Dark%20Knight%20DvdRip%20VostFr.avi
+
+#EXTINF:-1 tvg-id="" tvg-name="Batman Superman Dawn Of Justice" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Batman Superman Dawn Of Justice
+http://188.165.227.112/portail/films/Batman%20v%20Superman%20Dawn%20Of%20Justice%202016%20EXTENDED%20MULTi%20VFF%20AC3-DTS%201080p%20HDLight%20x264.GHT.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Braveheart." tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Braveheart.
+http://188.165.227.112/portail/films/Braveheart.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Captain.Marvel" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Captain.Marvel
+http://188.165.227.112/portail/films/Captain.Marvel.2019.MULTi.1080p.HDLight.x264.AC3-TOXIC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Deadpool
+http://188.165.227.112/portail/films/Deadpool%20(2016)/
+
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Doctor Strange
+http://188.165.227.112/portail/films/Doctor%20Strange%20(2016)%20MULTi%20%5b1080p%5d%20BluRay%20x264-PopHD/
+
+#EXTINF:-1 tvg-id="" tvg-name="Ghost in the Shell" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Ghost in the Shell
+http://188.165.227.112/portail/films/Ghost%20in%20the%20Shell%202017%20QC-ENG%20WEB-DL%201080p%20x264.GHT.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Gladiator" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Gladiator
+http://188.165.227.112/portail/films/Gladiator.avi
+
+#EXTINF:-1 tvg-id="" tvg-name="John Wick" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",John Wick
+http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%20(2014).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 2" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",John Wick 2
+http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%202%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="John Wick Parabellum" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",John Wick Parabellum
+http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%20-%20Parabellum%20(2019).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Kuzco,l'empereur magalo" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="Anime FR",Kuzco,l'empereur magalo
+http://188.165.227.112/portail/films/Kuzco,%20l'empereur%20m%c3%a9galo%20(2000)%20%5bMULTi%5d%20%5b1080p%5d%20BluRay%20x264-anod.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="L'age de glace 2" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="Anime FR",L'age de glace 2
+http://188.165.227.112/portail/films/L'%c3%a2ge%20de%20glace%204%20-%20la%20d%c3%a9rive%20des%20continents%20FRENCH%20DVDRip%20Xvid-NERD.avi
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Le Monde de Narnia Le lion, la sorcire blanche et l'armoire magique" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Le Monde de Narnia Le lion, la sorcire blanche et l'armoire magique
+http://188.165.227.112/portail/films/Le%20Monde%20de%20Narnia%20%5bTrilogie%5d/Le%20Monde%20de%20Narnia%201%20-%20Le%20lion,%20la%20sorci%c3%a8re%20blanche%20et%20l'armoire%20magique.avi
+
+#EXTINF:-1 tvg-id="" tvg-name="Le Monde de Narnia Le lion, la sorcire blanche et l'armoire magique" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Le Monde de Narnia Le 20prince Caspian
+http://188.165.227.112/portail/films/Le%20Monde%20de%20Narnia%20%5bTrilogie%5d/Le%20Monde%20de%20Narnia%202%20-%20Le%20prince%20Caspian.avi
+
+#EXTINF:-1 tvg-id="" tvg-name="Le Monde de Narnia L'Odysse du passeur d'aurore" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Le Monde de Narnia L'Odysse du passeur d'aurore
+http://188.165.227.112/portail/films/Le%20Monde%20de%20Narnia%20%5bTrilogie%5d/Le%20Monde%20de%20Narnia%203%20-%20L'Odyss%c3%a9e%20du%20passeur%20d'aurore.avi
+
+#EXTINF:-1 tvg-id="" tvg-name="V.pour.Vendetta" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR", V.pour.Vendetta
+http://188.165.227.112/portail/films/V.pour.Vendetta(v1).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Mask" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",The Mask
+http://188.165.227.112/portail/films/The%20mask.avi
+
+http://188.165.227.112/portail/films/Ah!%20Si%20j'%c3%a9tais%20riche.2002.French.DvdRip.x264.AC3%205.1-touriste.mkv
+
+http://188.165.227.112/portail/films/Le.Hobbit.La.bataille.des.cinq.armees.mkv
+
 
 
