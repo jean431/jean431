@@ -268,7 +268,7 @@ http://stream.youp.lol/c/CB1BE12C9B12D73717D6412B33B32.mp4
 http://stream.youp.lol/g/Ghost%20Rider%20%20LEsprit%20de%20Vengeance%20(Ghost%20Rider%20Spirit%20of%20Vengeance).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Black Panther" tvg-logo="https://cdn.vox-cdn.com/thumbor/2R6bmgaN0fyROVraMAFV5JF6hMc=/0x0:1280x868/1200x800/filters:focal(275x168:479x372)/cdn.vox-cdn.com/uploads/chorus_image/image/65072099/r2djqbogxj0hr50vhbky.9.jpg" group-title="FILM FR",Black Panther
 http://stream.youp.lol/b/Black%20Panther.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dardevil" tvg-logo="https://i.pinimg.com/236x/fe/3d/8d/fe3d8d94e22d520dc26342966687f47d--netflix-daredevil-marvels-daredevil.jpg" group-title="FILM FR",Dardevil
+#EXTINF:-1 tvg-id="" tvg-name="Daredevil" tvg-logo="https://i.pinimg.com/236x/fe/3d/8d/fe3d8d94e22d520dc26342966687f47d--netflix-daredevil-marvels-daredevil.jpg" group-title="FILM FR",Daredevil
 http://stream.youp.lol/d/Daredevil%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Bad Guy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/The_Bad_Guys_-_Reign_of_Chaos.jpg" group-title="FILM FR",The Bad Guy
 http://stream.youp.lol/s/sH67I2kxqzpUXEQqmLl6HlAUeHM.mp4
@@ -291,7 +291,9 @@ http://stream.youp.lol/i/independence%20day%202.mp4
 http://stream.youp.lol/z/ziIyuNNNwYqv0qbOpV9VvvdnRBb.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Asterix" tvg-logo="https://fr.web.img6.acsta.net/r_512_288/pictures/14/12/05/11/15/546054.jpg" group-title="Anime FR",Asterix
 http://stream.youp.lol/b/B21515BF71377649EDB88C4D3BD31.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Reine des neige" tvg-logo="https://fr.web.img5.acsta.net/pictures/210/521/21052146_20131023144339759.jpg" group-title="Anime FR",Reine des neige
+#EXTINF:-1 tvg-id="" tvg-name="La reine des neiges" tvg-logo="https://fr.web.img5.acsta.net/pictures/210/521/21052146_20131023144339759.jpg" group-title="Anime FR",La reine des neiges
+http://stream.youp.lol/l/La%20Reine%20des%20neiges%20(Frozen).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reine des neiges 2" tvg-logo="https://fr.web.img6.acsta.net/pictures/19/10/25/15/08/5952325.jpg" group-title="Anime FR",Reine des neiges 2
 http://stream.youp.lol/a/6zbuHXiuCdHZ57fZOlfUknpzCjU.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Prodigy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWUxYTM3MzUtMjYyYS00YjA2LWFhMDItM2Q3MjkyYzg4MGM3XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="Horreur FR",Prodigy
 http://stream.youp.lol/x/xQYkNs1YbosAooLv8u1nXhcGXay.mp4
@@ -367,6 +369,50 @@ http://188.165.227.112/portail/films/Ah!%20Si%20j'%c3%a9tais%20riche.2002.French
 #EXTINF:-1 tvg-id="" tvg-name="Le Hobbit La bataille des cinq armees" tvg-logo="https://vodimages.myt.mu/moviedb/movie//uCYyjSxv0dk8TDf2qQnwUSF3Nfy.jpg" group-title="FILM FR",Le Hobbit La bataille des cinq armees
 http://188.165.227.112/portail/films/Le.Hobbit.La.bataille.des.cinq.armees.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="L'age de glace 2" tvg-logo="https://www.telerama.fr/sites/tr_master/files/3eb6b9ba-95fe-4dbe-bcec-aab795fe1280_2.jpg" group-title="Anime FR",L'age de glace 2
+http://188.165.227.112/portail/films/L'%c3%a2ge%20de%20glace%204%20-%20la%20d%c3%a9rive%20des%20continents%20FRENCH%20DVDRip%20Xvid-NERD.avi
+#EXTINF:-1 tvg-id="" tvg-name="Lilo et Stitch" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/LiloandStitchmovieposter.jpg" group-title="Anime FR",Lilo et Stitch
+http://stream.youp.lol/l/Lilo%20%20Stitch%202%20%20Hawa%20nous%20avons%20un%20problme%20(Lilo%20%20Stitch%202%20%20Stitch%20Has%20a%20Glitch)%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Star" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/The_Star_%282017_film%29_poster.jpg" group-title="Anime FR",The Star
+http://stream.youp.lol/b/BA26E2B15A8BBDECF5E267E9432AD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clochette et la creature legendaire" tvg-logo="https://i.pinimg.com/originals/e9/10/89/e91089ff76fc8ebbecbf289eac072c92.jpg" group-title="Anime FR",Clochette et la creature legendaire
+http://stream.youp.lol/c/Clochette%20et%20la%20crature%20lgendaire.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clochette et la fee pirate" tvg-logo="https://www.chroniquedisney.fr/imgAnimation/2010/2014-clochette-fee-pirate-01-big.jpg" group-title="Anime FR",Clochette et la fee pirate
+http://stream.youp.lol/c/Clochette%20et%20la%20fe%20pirate.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beat Bugs" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTcxODk4ZWQtOTA2Yy00MGEyLWFkMTgtMzZkY2QyYTM3Njk3XkEyXkFqcGdeQXVyODcxMDQ0MDk@._V1_.jpg" group-title="Anime FR",Beat Bugs
+http://stream.youp.lol/d/D25AAF8D4D3F8CB44878B2E2D91E6.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drole de Bugs" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a7dcf69d7bdce185884a6b5/1560867610391-HERVN9MJTL0KYV2XO9FU/ke17ZwdGBToddI8pDm48kFG_d9IGlJltxYP6-d-adjp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmTqyr0YSX1lQOSnWxEpwDIrVgPyBAGNwyetgCp8kARELmxKqFpXToz81pzn9RIr2O/open-uri20150422-12561-rjh0mf_17e758bd.jpg" group-title="Anime FR",Drole de Bugs
+http://stream.youp.lol/f/F79E1DDD971485D7FA1D5C4145E7C.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planes" tvg-logo="https://www.telerama.fr/sites/tr_master/files/3eb6b9ba-95fe-4dbe-bcec-aab795fe1280_2.jpg" group-title="Anime FR",Planes
+http://stream.youp.lol/c/cJFe9iag9gTdWmdulUlFW7r4bTO.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragons et Le monde cachce" tvg-logo="https://i.pinimg.com/236x/2f/1f/5e/2f1f5e26c2b71b9a394cc28082bc7f3e--planes-movie-planes-party.jpg" group-title="Anime FR",Dragons et Le monde cachce
+http://stream.youp.lol/d/Dragons%203%20_%20Le%20monde%20cach%c3%a9%20%20%20-%202019%20-%20%5bwww.fs1.pw%5d.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bernard et Bianca au pays des kangourous" tvg-logo="https://fr.web.img4.acsta.net/pictures/17/07/10/16/28/487170.jpg" group-title="Anime FR",Bernard et Bianca au pays des kangourous
+http://stream.youp.lol/b/Bernard%20et%20Bianca%20au%20pays%20des%20kangourous.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brother Bear" tvg-logo="https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-movie/brother-bear-poster.jpg?itok=5kCbFING" group-title="Anime FR",Brother Bear
+http://stream.youp.lol/e/e8KTz5sBBfDoCwg8oEpC1gsBvsW.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kuzco 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Kronk%27s_New_Groove_cover.jpg/220px-Kronk%27s_New_Groove_cover.jpg" group-title="Anime FR",Kuzco 2
+http://stream.youp.lol/e/empreur%20nouveau%20genre%202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dory" tvg-logo="https://images.moviesanywhere.com/611537e3e390ceedd5cebdd5e584279f/48fbb099-a78c-4a97-ac04-55152ea4733a.jpg" group-title="Anime FR",Dory
+http://stream.youp.lol/e/etzjklXHTWTPKKstdbfwjVC3Moo.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le Roi Lion 3" tvg-logo="https://disney-planet.fr/wp-content/uploads/2017/07/le-roi-lion-3-bande-originale.jpg" group-title="Anime FR",Le Roi Lion 3
+http://stream.youp.lol/h/hOZ6ugXY2dblyhGsuizkbL03m83.mp4
+#EXTINF:-1 tvg-id="" tvg-name="101 Dalmatiens" tvg-logo="https://fr.web.img4.acsta.net/medias/nmedia/18/65/83/79/20193459.jpg" group-title="Anime FR",101 Dalmatiens
+http://stream.youp.lol/i/i0it09qQB6kz7FDf7n0wRBmKyOQ.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Le Chateau ambulant" tvg-logo="https://fr.web.img6.acsta.net/medias/nmedia/18/35/48/22/18399898.jpg" group-title="Anime FR",Le Chateau ambulant
+http://stream.youp.lol/l/Le%20Chteau%20ambulant%20(Hauru%20no%20ugoku%20shiro)2005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Jungle Book" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Thejunglebook_movieposter.jpg" group-title="Anime FR",The Jungle Book
+http://stream.youp.lol/l/Le%20Livre%20de%20la%20jungle%20(The%20Jungle%20Book)%201967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le Manége enchante" tvg-logo="https://www.ecranlarge.com/media/cache/1600x1200/uploads/image/001/121/ouahrjvi6iqeljwlzs4otjfb8vu-219.jpg" group-title="Anime FR",Le Manége enchante
+http://stream.youp.lol/l/Le%20Mange%20enchant%20(The%20Magic%20Roundabout%20Movie)2005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mickey" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Mickey%2C_Donald%2C_Goofy_-_The_Three_Musketeers_poster.jpg/220px-Mickey%2C_Donald%2C_Goofy_-_The_Three_Musketeers_poster.jpg" group-title="Anime FR",Mickey
+http://stream.youp.lol/p/pjwEBWe3ni4ZeufLLXXOrvakdJe.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Angry Bird" tvg-logo="https://i.pinimg.com/originals/3e/7d/ce/3e7dcef50d92039af002b5355f9015f6.jpg" group-title="Anime FR",Angry Bird
+http://stream.youp.lol/a/5QQNrX1CjSWKAa1dBMc93rzTe85.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moana" tvg-logo="https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-movie/moana-poster00.jpg?itok=D37Zm4Jv" group-title="Anime FR",Moana
+http://stream.youp.lol/v/Vaiana%20la%20lgende%20du%20bout%20du%20monde%20(Moana).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vic Le Vicking" tvg-logo="https://cinema.mu/wp-content/uploads/2019/12/vic-the-viking-poster-500x740.jpg" group-title="Anime FR",Vic Le Vicking
+http://stream.youp.lol/a/6B8CfAYTzR9Twses0T08ylNVXlH.mp4
 
 
