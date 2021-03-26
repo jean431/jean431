@@ -342,54 +342,34 @@ http://stream.tvtap.live:8081/live/fr-infosports.stream/playlist.m3u8?wmsAuthSig
 #EXTINF:-1 tvg-id="" tvg-name="Voyage" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Voyage_logo.png" group-title="CanalSAT",Voyage
 http://stream.tvtap.live:8081/live/fr-voyagetv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIxIDY6MTA6MTUgUE0maGFzaF92YWx1ZT1FVGJtQ1JTVUo1Yk5HMGJRSUpOdHVRPT0mdmFsaWRtaW51dGVzPTIw
 
-
-#EXTINF:-1 tvg-id="" tvg-name="L'age de glace 2" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="Anime FR",L'age de glace 2
-http://188.165.227.112/portail/films/L'%c3%a2ge%20de%20glace%204%20-%20la%20d%c3%a9rive%20des%20continents%20FRENCH%20DVDRip%20Xvid-NERD.avi
-
-#EXTINF:-1 tvg-id="" tvg-name="12years of slave" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",12years of slave
+#EXTINF:-1 tvg-id="" tvg-name="12years a slave" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/12_Years_a_Slave_film_poster.jpg" group-title="FILM FR",12years a slave
 http://188.165.227.112/portail/films/12.Yeats.a.Slave.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="300 Rise of an Empire" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",300 Rise of an Empire
+#EXTINF:-1 tvg-id="" tvg-name="300 Rise of an Empire" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/300_Rise_of_an_Empire.jpg" group-title="FILM FR",300 Rise of an Empire
 http://188.165.227.112/portail/films/300.Rise.of.an.Empire.mkv
-
 #EXTINF:-1 tvg-id="" tvg-name="1984" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",1984
 http://188.165.227.112/portail/films/1984%20-%201080p%20FR%20EN%20x264%20aac%20mHDgz.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="A Space Odyssey" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",A Space Odyssey
+#EXTINF:-1 tvg-id="" tvg-name="A Space Odyssey" tvg-logo="https://i1.wp.com/movie-screencaps.com/wp-content/uploads/2017/02/2001-space-movie-screencaps.com-.jpg?fit=1920%2C864&ssl=1" group-title="FILM FR",A Space Odyssey
 http://188.165.227.112/portail/films/2001_-_A_Space_Odyssey.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Alita Battle Angel" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Alita Battle Angel
+#EXTINF:-1 tvg-id="" tvg-name="Alita Battle Angel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Alita_Battle_Angel_%282019_poster%29.png/220px-Alita_Battle_Angel_%282019_poster%29.png" group-title="FILM FR",Alita Battle Angel
 http://188.165.227.112/portail/films/Alita.Battle.Angel.2019.MULTi.TRUEFRENCH.1080p.HDLight.x264.AC3-EXTREME.mkv
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Avengers Endgame" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Avengers Endgame
+#EXTINF:-1 tvg-id="" tvg-name="Avengers Endgame" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" group-title="FILM FR",Avengers Endgame
 http://188.165.227.112/portail/films/Avengers%20Endgame%202019%201080p%20VFF%20EN%20X264%20AC3-mHDgz.mkv
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman Superman Dawn Of Justice" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Batman Superman Dawn Of Justice
+#EXTINF:-1 tvg-id="" tvg-name="Batman Superman Dawn Of Justice" tvg-logo="https://i.pinimg.com/originals/e5/71/41/e571414587e53559bdeba51ba1724445.jpg" group-title="FILM FR",Batman Superman Dawn Of Justice
 http://188.165.227.112/portail/films/Batman%20v%20Superman%20Dawn%20Of%20Justice%202016%20EXTENDED%20MULTi%20VFF%20AC3-DTS%201080p%20HDLight%20x264.GHT.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Braveheart." tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Braveheart.
+#EXTINF:-1 tvg-id="" tvg-name="Braveheart." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Braveheart_imp.jpg/220px-Braveheart_imp.jpg" group-title="FILM FR",Braveheart.
 http://188.165.227.112/portail/films/Braveheart.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="Captain.Marvel" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Captain.Marvel
+#EXTINF:-1 tvg-id="" tvg-name="Captain.Marvel" tvg-logo="https://i.pinimg.com/736x/37/b1/e2/37b1e26e047943e98c64d029643264e3.jpg" group-title="FILM FR",Captain.Marvel
 http://188.165.227.112/portail/films/Captain.Marvel.2019.MULTi.1080p.HDLight.x264.AC3-TOXIC.mkv
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Ghost in the Shell" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",Ghost in the Shell
+#EXTINF:-1 tvg-id="" tvg-name="Ghost in the Shell" tvg-logo="https://i.pinimg.com/originals/3f/ef/d8/3fefd8ed5d5d876d7b1ad05f8aff8b23.jpg" group-title="FILM FR",Ghost in the Shell
 http://188.165.227.112/portail/films/Ghost%20in%20the%20Shell%202017%20QC-ENG%20WEB-DL%201080p%20x264.GHT.mkv
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="The Mask" tvg-logo="http://ip.magsat.tv:8801/image/chn?id=1" group-title="FILM FR",The Mask
+#EXTINF:-1 tvg-id="" tvg-name="The Mask" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/The_Mask_%28film%29_poster.jpg/220px-The_Mask_%28film%29_poster.jpg" group-title="FILM FR",The Mask
 http://188.165.227.112/portail/films/The%20mask.avi
-
+#EXTINF:-1 tvg-id="" tvg-name="Ah! si j'etais riche" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzNTg0ODg3MF5BMl5BanBnXkFtZTcwMDAzNzc3MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="FILM FR",Ah! si j'etais riche
 http://188.165.227.112/portail/films/Ah!%20Si%20j'%c3%a9tais%20riche.2002.French.DvdRip.x264.AC3%205.1-touriste.mkv
-
+#EXTINF:-1 tvg-id="" tvg-name="Le Hobbit La bataille des cinq armees" tvg-logo="https://vodimages.myt.mu/moviedb/movie//uCYyjSxv0dk8TDf2qQnwUSF3Nfy.jpg" group-title="FILM FR",Le Hobbit La bataille des cinq armees
 http://188.165.227.112/portail/films/Le.Hobbit.La.bataille.des.cinq.armees.mkv
-
-
+#EXTINF:-1 tvg-id="" tvg-name="L'age de glace 2" tvg-logo="https://www.telerama.fr/sites/tr_master/files/3eb6b9ba-95fe-4dbe-bcec-aab795fe1280_2.jpg" group-title="Anime FR",L'age de glace 2
+http://188.165.227.112/portail/films/L'%c3%a2ge%20de%20glace%204%20-%20la%20d%c3%a9rive%20des%20continents%20FRENCH%20DVDRip%20Xvid-NERD.avi
 
 
 
