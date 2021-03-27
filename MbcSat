@@ -352,6 +352,9 @@ http://stream.youp.lol/u/uaHzlrdgSQsBXiP3fDxi8SLBDes.mp4
 http://stream.youp.lol/l/Le%20Parc%20des%20merveilles.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Escape From Planet Earth" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/915r%2BnZT2%2BL._SL1500_.jpg" group-title="Anime FR",Escape From Planet Earth
 http://stream.youp.lol/l/Les%20Zvads%20de%20lespace%20(Escape%20from%20Planet%20Earth)%20.mp4
+EXTINF:-1 tvg-id="" tvg-name="LadyBugs" tvg-logo="https://www.themoviedb.org/t/p/w500/U3wN0xJYdZR2Gi1U79U8EZPxOd.jpg" group-title="Anime FR",LadyBugs
+http://stream.youp.lol/t/The%20Ladybug.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-name="InfoSport+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/InfosportPlus.svg/1200px-InfosportPlus.svg.png" group-title="SPORT",lnfoSport+
 http://stream.tvtap.live:8081/live/fr-infosports.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIxIDY6MDY6MDMgUE0maGFzaF92YWx1ZT0vMWJDVGVsNjBkSEg3bktmRUVTWlJBPT0mdmFsaWRtaW51dGVzPTIw
@@ -437,9 +440,9 @@ http://stream.youp.lol/c/Clochette%20et%20la%20fe%20pirate.mp4
 http://stream.youp.lol/d/D25AAF8D4D3F8CB44878B2E2D91E6.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Drole de Bugs" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a7dcf69d7bdce185884a6b5/1560867610391-HERVN9MJTL0KYV2XO9FU/ke17ZwdGBToddI8pDm48kFG_d9IGlJltxYP6-d-adjp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmTqyr0YSX1lQOSnWxEpwDIrVgPyBAGNwyetgCp8kARELmxKqFpXToz81pzn9RIr2O/open-uri20150422-12561-rjh0mf_17e758bd.jpg" group-title="Anime FR",Drole de Bugs
 http://stream.youp.lol/f/F79E1DDD971485D7FA1D5C4145E7C.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Planes" tvg-logo="https://www.telerama.fr/sites/tr_master/files/3eb6b9ba-95fe-4dbe-bcec-aab795fe1280_2.jpg" group-title="Anime FR",Planes
+#EXTINF:-1 tvg-id="" tvg-name="Planes" tvg-logo="https://i.pinimg.com/236x/2f/1f/5e/2f1f5e26c2b71b9a394cc28082bc7f3e--planes-movie-planes-party.jpg" group-title="Anime FR",Planes
 http://stream.youp.lol/c/cJFe9iag9gTdWmdulUlFW7r4bTO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragons et Le monde cachce" tvg-logo="https://i.pinimg.com/236x/2f/1f/5e/2f1f5e26c2b71b9a394cc28082bc7f3e--planes-movie-planes-party.jpg" group-title="Anime FR",Dragons et Le monde cachce
+#EXTINF:-1 tvg-id="" tvg-name="Dragons et Le monde cachce" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51oRAIvdTlL.jpg" group-title="Anime FR",Dragons et Le monde cachce
 http://stream.youp.lol/d/Dragons%203%20_%20Le%20monde%20cach%c3%a9%20%20%20-%202019%20-%20%5bwww.fs1.pw%5d.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bernard et Bianca au pays des kangourous" tvg-logo="https://fr.web.img4.acsta.net/pictures/17/07/10/16/28/487170.jpg" group-title="Anime FR",Bernard et Bianca au pays des kangourous
 http://stream.youp.lol/b/Bernard%20et%20Bianca%20au%20pays%20des%20kangourous.mp4
