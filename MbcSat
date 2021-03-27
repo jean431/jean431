@@ -222,8 +222,6 @@ http://stream.tvtap.live:8081/live/fr-sfr3.stream/playlist.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 tvg-id="" tvg-name="Ushuaïa" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/Ushua%C3%AFa_TV_logo_2019.svg/1280px-Ushua%C3%AFa_TV_logo_2019.svg.png" group-title="CanalSAT",Ushuaïa
 http://stream.tvtap.live:8081/live/fr-ushuaiatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDEyOjA2OjE2IFBNJmhhc2hfdmFsdWU9UWdkSVlhMkpjYkV1UFZtSnA2d3cwdz09JnZhbGlkbWludXRlcz0yMA==
 
-#EXTM3U
-
 #EXTINF:-2 tvg-name="Jonh Wick" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="FILM FR",John Wick
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%20(2014).mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jonh Wick 2" tvg-logo="https://i.pinimg.com/originals/4c/10/bf/4c10bf923844ea45c49328baaf3f8a6f.jpg" group-title="FILM FR",John Wick 2
@@ -352,7 +350,7 @@ http://stream.youp.lol/u/uaHzlrdgSQsBXiP3fDxi8SLBDes.mp4
 http://stream.youp.lol/l/Le%20Parc%20des%20merveilles.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Escape From Planet Earth" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/915r%2BnZT2%2BL._SL1500_.jpg" group-title="Anime FR",Escape From Planet Earth
 http://stream.youp.lol/l/Les%20Zvads%20de%20lespace%20(Escape%20from%20Planet%20Earth)%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LadyBugs" tvg-logo="https://www.themoviedb.org/t/p/w500/U3wN0xJYdZR2Gi1U79U8EZPxOd.jpg" group-title="Anime FR",LadyBugs
+#EXTINF:-1 tvg-id="" tvg-name="LadyBug" tvg-logo="https://www.themoviedb.org/t/p/w500/U3wN0xJYdZR2Gi1U79U8EZPxOd.jpg" group-title="Anime FR",LadyBug
 http://stream.youp.lol/t/The%20Ladybug.mp4
 
 
