@@ -24,7 +24,7 @@ https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Tortues Ninja TV" tvg-id="5f8ecc1b37867f00071469e9" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",Tortues Ninja TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2" tvg-logo="https://i.pinimg.com/474x/69/c0/c2/69c0c22feb2a0f29b48a0572dd9eef8e.jpg" group-title="FILM FR",Deadpool 2
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2" tvg-logo="https://i.pinimg.com/474x/69/c0/c2/69c0c22feb2a0f29b48a0572dd9eef8e.jpg" group-title="Enfant",Deadpool 2
 http://stream.youp.lol/a/AE9659B9E598AE511135FA312731A.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Le roi lion" tvg-logo="https://media.vogue.fr/photos/5c2f3f112b0fe3c6c88dcf7a/master/pass/le_roi_lion_2019_4468.jpeg" group-title="Enfant",Le roi lion
 http://stream.youp.lol/a/Akd4qXv32iCoYRUAuShXKAlY6OL.mp4
@@ -129,7 +129,7 @@ http://stream.youp.lol/l/Le%20Livre%20de%20la%20jungle%20(The%20Jungle%20Book)%2
 http://stream.youp.lol/l/Le%20Mange%20enchant%20(The%20Magic%20Roundabout%20Movie)2005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mickey" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Mickey%2C_Donald%2C_Goofy_-_The_Three_Musketeers_poster.jpg/220px-Mickey%2C_Donald%2C_Goofy_-_The_Three_Musketeers_poster.jpg" group-title="Enfant",Mickey
 http://stream.youp.lol/p/pjwEBWe3ni4ZeufLLXXOrvakdJe.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Angry Bird" tvg-logo="https://i.pinimg.com/originals/3e/7d/ce/3e7dcef50d92039af002b5355f9015f6.jpg" group-title="Anime FR",Angry Bird
+#EXTINF:-1 tvg-id="" tvg-name="Angry Bird" tvg-logo="https://i.pinimg.com/originals/3e/7d/ce/3e7dcef50d92039af002b5355f9015f6.jpg" group-title="Enfant",Angry Bird
 http://stream.youp.lol/a/5QQNrX1CjSWKAa1dBMc93rzTe85.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Moana" tvg-logo="https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-movie/moana-poster00.jpg?itok=D37Zm4Jv" group-title="Enfant",Moana
 http://stream.youp.lol/v/Vaiana%20la%20lgende%20du%20bout%20du%20monde%20(Moana).mp4
