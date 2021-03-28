@@ -279,7 +279,7 @@ http://stream.youp.lol/i/ltOkXWOYZoYstuKrMq44yogotHp.mp4
 http://stream.youp.lol/c/CB1BE12C9B12D73717D6412B33B32.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ghost Rider" tvg-logo="https://i.pinimg.com/originals/4b/22/8f/4b228fc6f2674f7eb7c48af2c6cbf323.jpg" group-title="FILM FR",Ghost Rider
 http://stream.youp.lol/g/Ghost%20Rider%20%20LEsprit%20de%20Vengeance%20(Ghost%20Rider%20Spirit%20of%20Vengeance).mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Panther" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61a03Zq9oRL._AC_.jpg" group-title="FILM FR",Black Panther
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61a03Zq9oRL._AC_.jpg" group-title="Marvel",Black Panther
 http://stream.youp.lol/b/Black%20Panther.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Daredevil" tvg-logo="https://i.pinimg.com/236x/fe/3d/8d/fe3d8d94e22d520dc26342966687f47d--netflix-daredevil-marvels-daredevil.jpg" group-title="FILM FR",Daredevil
 http://stream.youp.lol/d/Daredevil%20.mp4
@@ -369,13 +369,13 @@ http://188.165.227.112/portail/films/1984%20-%201080p%20FR%20EN%20x264%20aac%20m
 http://188.165.227.112/portail/films/2001_-_A_Space_Odyssey.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alita Battle Angel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Alita_Battle_Angel_%282019_poster%29.png/220px-Alita_Battle_Angel_%282019_poster%29.png" group-title="FILM FR",Alita Battle Angel
 http://188.165.227.112/portail/films/Alita.Battle.Angel.2019.MULTi.TRUEFRENCH.1080p.HDLight.x264.AC3-EXTREME.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avengers Endgame" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" group-title="FILM FR",Avengers Endgame
+#EXTINF:-1 tvg-id="" tvg-name="Avengers Endgame" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" group-title="Marvel",Avengers Endgame
 http://188.165.227.112/portail/films/Avengers%20Endgame%202019%201080p%20VFF%20EN%20X264%20AC3-mHDgz.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman Superman Dawn Of Justice" tvg-logo="https://i.pinimg.com/originals/e5/71/41/e571414587e53559bdeba51ba1724445.jpg" group-title="FILM FR",Batman Superman Dawn Of Justice
 http://188.165.227.112/portail/films/Batman%20v%20Superman%20Dawn%20Of%20Justice%202016%20EXTENDED%20MULTi%20VFF%20AC3-DTS%201080p%20HDLight%20x264.GHT.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Braveheart." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Braveheart_imp.jpg/220px-Braveheart_imp.jpg" group-title="FILM FR",Braveheart.
 http://188.165.227.112/portail/films/Braveheart.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Captain.Marvel" tvg-logo="https://i.pinimg.com/736x/37/b1/e2/37b1e26e047943e98c64d029643264e3.jpg" group-title="FILM FR",Captain.Marvel
+#EXTINF:-1 tvg-id="" tvg-name="Captain.Marvel" tvg-logo="https://i.pinimg.com/736x/37/b1/e2/37b1e26e047943e98c64d029643264e3.jpg" group-title="Marvel",Captain.Marvel
 http://188.165.227.112/portail/films/Captain.Marvel.2019.MULTi.1080p.HDLight.x264.AC3-TOXIC.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ghost in the Shell" tvg-logo="https://i.pinimg.com/originals/3f/ef/d8/3fefd8ed5d5d876d7b1ad05f8aff8b23.jpg" group-title="FILM FR",Ghost in the Shell
 http://188.165.227.112/portail/films/Ghost%20in%20the%20Shell%202017%20QC-ENG%20WEB-DL%201080p%20x264.GHT.mkv
@@ -391,7 +391,7 @@ http://stream.youp.lol/d/Dead%20Again%20in%20Tombstone.mp4
 http://stream.youp.lol/f/FE753E6E527A2BAE67E4E58987B97.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cowboy and Alien" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM1MzkyNzQ3OV5BMl5BanBnXkFtZTcwMDk1NTg2NQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="FILM FR",Cowboy and Alien
 http://stream.youp.lol/c/cowboy%20et%20alien.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thor" tvg-logo="https://www.themoviedb.org/t/p/w500/yw7gr7DhHHVTLlO8Se8uH17TDMA.jpg" group-title="FILM FR",Thor
+#EXTINF:-1 tvg-id="" tvg-name="Thor" tvg-logo="https://www.themoviedb.org/t/p/w500/yw7gr7DhHHVTLlO8Se8uH17TDMA.jpg" group-title="Marvel",Thor
 http://stream.youp.lol/c/cZFz5cTmzem6Q15v1jguT63hi52.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Divergent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Divergent.jpg" group-title="FILM FR",Divergent
 http://stream.youp.lol/d/Divergente%20.mp4
@@ -399,13 +399,13 @@ http://stream.youp.lol/d/Divergente%20.mp4
 http://stream.youp.lol/d/Divergente%202%20%20Linsurrection.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Divergent 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk2OTc5YzQtMjAwMS00YWY4LTk1ZWItOTgyMmRkMGU4ZmY1XkEyXkFqcGdeQXVyMzQ1MzUwMTE@._V1_UY1200_CR121,0,630,1200_AL_.jpg" group-title="FILM FR",Divergent 3
 http://stream.youp.lol/d/Divergente%203%20%20Au-del%20du%20mur%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ironman" tvg-logo="https://wallpaperaccess.com/full/1925942.jpg" group-title="FILM FR",Ironman
+#EXTINF:-1 tvg-id="" tvg-name="Ironman" tvg-logo="https://i.pinimg.com/originals/a4/f1/f6/a4f1f6c1efdb834471deaae8f77940c8.jpg" group-title="Marvel",Ironman
 http://stream.youp.lol/i/Iron%20Man%201%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ironman 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg" group-title="FILM FR",Ironman 2
+#EXTINF:-1 tvg-id="" tvg-name="Ironman 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg" group-title="Marvel",Ironman 2
 http://stream.youp.lol/i/Iron%20Man%202%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ironman 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_.jpg" group-title="FILM FR",Ironman 3
+#EXTINF:-1 tvg-id="" tvg-name="Ironman 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_.jpg" group-title="Marvel",Ironman 3
 http://stream.youp.lol/i/Iron%20Man%203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Captain America Civilwar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg" group-title="FILM FR",Captain America Civil War
+#EXTINF:-1 tvg-id="" tvg-name="Captain America Civilwar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg" group-title="Marvel",Captain America Civil War
 http://stream.youp.lol/c/Captain%20America%20%20Civil%20War%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic World" tvg-logo="https://static.toiimg.com/thumb/msid-64539776,imgsize-93700,width-800,height-600,resizemode-75/64539776.jpg" group-title="FILM FR",Jurassic World
 http://stream.youp.lol/j/Jurassic%20World%202015%20.mp4
@@ -580,7 +580,7 @@ http://stream.youp.lol/a/A326A27337D86CEEBE53925D21567.mp4
 http://stream.youp.lol/r/Ready%20Player%20One%20En%20Streaming%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Island" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51MqXC6KVmL._AC_.jpg" group-title="FILM FR",The Island
 http://stream.youp.lol/a/8zLBF1k8fX2V5pNjqzmrYVEj2w4.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guardian of the galaxy 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A11Agdd1EQL._AC_SL1500_.jpg" group-title="FILM FR",Guardian of the galaxy 2
+#EXTINF:-1 tvg-id="" tvg-name="Guardian of the galaxy 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A11Agdd1EQL._AC_SL1500_.jpg" group-title="Marvel",Guardian of the galaxy 2
 http://stream.youp.lol/a/8Xo5iajzeK1PYeidHK2PPsgli2x.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Upgrade" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71wTTrjZhBL._AC_SY679_.jpg" group-title="FILM FR",Upgrade
 http://stream.youp.lol/a/7a37gwEix8ZvnOgYZi1goPsBqJc.mp4
