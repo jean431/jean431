@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Robots" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Robots2005Poster.jpg" group-title="Anime  FR",Robots
+http://stream.youp.lol/v/v8O807NJ7a2lw9P6eQhCXuZrOTX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulan Disney anime" tvg-logo="https://i.pinimg.com/originals/50/48/52/504852f4be1bc12c61ec76056a2310e5.jpg" group-title="Anime FR",Mulan Disney Anime
+http://stream.youp.lol/s/sZQixvNogFhXFQSUlPYinNWeQ0w.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Belle et la Bete" tvg-logo="https://i.pinimg.com/originals/84/fc/8e/84fc8eaa0cd053aedb3d181f599fa9cb.jpg" group-title="Anime FR",La Belle et la Bete
+http://stream.youp.lol/s/sIhRrRapijHVKOTfTp93YsP89e4.mp4
 #EXTINF:-1 tvg-name="Bob l'éponge" tvg-id="5ffc8c345822750007e167de" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png",Bob l'éponge
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Junior" tvg-id="5f8ecb336537e8000764a17f" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG.png",Junior
