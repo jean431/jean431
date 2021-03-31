@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Quest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Dragon_Quest_Your_Story_poster.jpg" group-title="Anime FR",Dragon Quest
+http://stream.youp.lol/y/ygggrrFNW7p1Wd2Fg5BTq4505VE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Queen's Corgi" tvg-logo="https://cdn1.clickthecity.com/images/movies/poster/600/17032.jpg" group-title="Anime FR",The Queen's Corgi
+http://stream.youp.lol/r/Royal%20Corgi%20(The%20Queens%20Corgi).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Astérix le secret de la potion magique" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUyNzhjMTAtNGI5OC00MjYzLWFlNDUtMTQzYTdhZjliMDk0XkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg" group-title="Anime FR",Astérix le secret de la potion magique
 http://stream.youp.lol/a/bMYpBVc0bS0ykEXSjRXIat6ooJf.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Robots" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Robots2005Poster.jpg" group-title="ENFANT",Robots
