@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Brother Bear 2" tvg-logo="https://i.pinimg.com/originals/af/ae/37/afae37ea2d1da0e893578ddb779b1dab.jpg" group-title="Anime FR",Brother Bear 2
+http://stream.youp.lol/k/kH3kfWS1AQpitPxvFg71feOZQgi.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Quest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Dragon_Quest_Your_Story_poster.jpg" group-title="Anime FR",Dragon Quest
 http://stream.youp.lol/y/ygggrrFNW7p1Wd2Fg5BTq4505VE.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Queen's Corgi" tvg-logo="https://cdn1.clickthecity.com/images/movies/poster/600/17032.jpg" group-title="Anime FR",The Queen's Corgi
