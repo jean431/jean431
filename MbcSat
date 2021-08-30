@@ -1,167 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Brother Bear 2" tvg-logo="https://i.pinimg.com/originals/af/ae/37/afae37ea2d1da0e893578ddb779b1dab.jpg" group-title="Anime FR",Brother Bear 2
-http://stream.youp.lol/k/kH3kfWS1AQpitPxvFg71feOZQgi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Quest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Dragon_Quest_Your_Story_poster.jpg" group-title="Anime FR",Dragon Quest
-http://stream.youp.lol/y/ygggrrFNW7p1Wd2Fg5BTq4505VE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Queen's Corgi" tvg-logo="https://cdn1.clickthecity.com/images/movies/poster/600/17032.jpg" group-title="Anime FR",The Queen's Corgi
-http://stream.youp.lol/r/Royal%20Corgi%20(The%20Queens%20Corgi).mp4
-#EXTINF:-1 tvg-id="" tvg-name="Astérix le secret de la potion magique" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUyNzhjMTAtNGI5OC00MjYzLWFlNDUtMTQzYTdhZjliMDk0XkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_.jpg" group-title="Anime FR",Astérix le secret de la potion magique
-http://stream.youp.lol/a/bMYpBVc0bS0ykEXSjRXIat6ooJf.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Robots" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Robots2005Poster.jpg" group-title="ENFANT",Robots
-http://stream.youp.lol/v/v8O807NJ7a2lw9P6eQhCXuZrOTX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulan Disney anime" tvg-logo="https://i.pinimg.com/originals/50/48/52/504852f4be1bc12c61ec76056a2310e5.jpg" group-title="ENFANT",Mulan Disney Anime
-http://stream.youp.lol/s/sZQixvNogFhXFQSUlPYinNWeQ0w.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Belle et la Bete" tvg-logo="https://i.pinimg.com/originals/84/fc/8e/84fc8eaa0cd053aedb3d181f599fa9cb.jpg" group-title="ENFANT",La Belle et la Bete
-http://stream.youp.lol/s/sIhRrRapijHVKOTfTp93YsP89e4.mp4
-#EXTINF:-1 tvg-name="Bob l'éponge" tvg-id="5ffc8c345822750007e167de" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png",Bob l'éponge
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Junior" tvg-id="5f8ecb336537e8000764a17f" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG.png",Junior
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Kids Animation" tvg-id="5f8eba14a4ffb8000764e950" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png",Kids Animation
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Kids Collection" tvg-id="5f92b625c1ffbc0007e60c37" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5f92b625c1ffbc0007e60c37/colorLogoPNG.png",Kids Collection
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="" tvg-name="Supertoons TV" tvg-logo="https://i.imgur.com/kUmPbel.jpg" group-title="Enfant",Supertoons TV
-https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://i.pinimg.com/originals/92/3d/da/923dda25656e55cf0142dd60420fff1f.png" group-title="Enfant",Gulli
-https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Enfant",Boing
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Enfant",Boomerang
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amuse Animation" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="Enfant",Amuse Animation
-https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caillou" tvg-logo="https://i.imgur.com/4zJqmw6.png" group-title="Enfant",Caillou
-https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Dora TV" tvg-id="5f8ecb9524419b0007365a1c" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png",Dora TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Tortues Ninja TV" tvg-id="5f8ecc1b37867f00071469e9" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",Tortues Ninja TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2" tvg-logo="https://i.pinimg.com/474x/69/c0/c2/69c0c22feb2a0f29b48a0572dd9eef8e.jpg" group-title="Enfant",Deadpool 2
-http://stream.youp.lol/a/AE9659B9E598AE511135FA312731A.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Le roi lion" tvg-logo="https://media.vogue.fr/photos/5c2f3f112b0fe3c6c88dcf7a/master/pass/le_roi_lion_2019_4468.jpeg" group-title="Enfant",Le roi lion
-http://stream.youp.lol/a/Akd4qXv32iCoYRUAuShXKAlY6OL.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg" group-title="Enfant",Avatar
-http://stream.youp.lol/a/upd6F9IIMbzSl5reXsyMk7xH4Ou.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Monster & cie" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Ed5rXQ8BL._SL1500_.jpg" group-title="Enfant",Monster & cie
-http://stream.youp.lol/a/a99lbMSp4ScGT79FDKJeOEmcZaN.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51k0ypuuXEL._SY445_.jpg" group-title="Enfant",Toy Story
-http://stream.youp.lol/a/4cWLRhub0yY9VJpdw0nqoTPYyiN.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Toy_Story_2.jpg/220px-Toy_Story_2.jpg" group-title="Enfant",Toy Story 2
-http://stream.youp.lol/l/lDOSztEvyOUdrDO5NVoq4CQ28AL.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/519fFTj6QnL._AC_.jpg" group-title="Enfant",Toy Story 3
-http://stream.youp.lol/n/nl55t1nwWaF5uMOuod1J88pS8OT.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story 4" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_.jpg" group-title="Enfant",Toy Story 4
-http://stream.youp.lol/q/qWtRA6rfUNm81A7ITDrq6WkfCNy.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider" tvg-logo="https://i.pinimg.com/originals/4b/22/8f/4b228fc6f2674f7eb7c48af2c6cbf323.jpg" group-title="Enfant",Ghost Rider
-http://stream.youp.lol/g/Ghost%20Rider%20%20LEsprit%20de%20Vengeance%20(Ghost%20Rider%20Spirit%20of%20Vengeance).mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Panther" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61a03Zq9oRL._AC_.jpg" group-title="Enfant",Black Panther
-http://stream.youp.lol/b/Black%20Panther.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Daredevil" tvg-logo="https://i.pinimg.com/236x/fe/3d/8d/fe3d8d94e22d520dc26342966687f47d--netflix-daredevil-marvels-daredevil.jpg" group-title="Enfant",Daredevil
-http://stream.youp.lol/d/Daredevil%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Predator" tvg-logo="https://miro.medium.com/max/1838/1*JtRMzB-gDPDDRk7COonxGg.jpeg" group-title="Enfant",The Predator
-http://stream.youp.lol/f/FBA45B814CF97E7DF218BE5358474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hellboy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc1ZWY0ZTEtZTVmNi00MTg0LTg4NmQtZTI4OWNiMmQ0MWZkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY1200_CR122,0,630,1200_AL_.jpg" group-title="Enfant",Hellboy
-http://stream.youp.lol/h/Hellboy.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hellboy 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Hellboy_2_poster.jpg/220px-Hellboy_2_poster.jpg" group-title="Enfant",Hellboy 2
-http://stream.youp.lol/h/Hellboy%20II%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shazam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Legosmm.jpg" group-title="Enfant",Shazam
-http://stream.youp.lol/z/ziIyuNNNwYqv0qbOpV9VvvdnRBb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Asterix" tvg-logo="https://fr.web.img6.acsta.net/r_512_288/pictures/14/12/05/11/15/546054.jpg" group-title="Enfant",Asterix
-http://stream.youp.lol/b/B21515BF71377649EDB88C4D3BD31.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La reine des neiges" tvg-logo="https://fr.web.img5.acsta.net/pictures/210/521/21052146_20131023144339759.jpg" group-title="Enfant",La reine des neiges
-http://stream.youp.lol/l/La%20Reine%20des%20neiges%20(Frozen).mp4
-#EXTINF:-1 tvg-id="" tvg-name="La reine des neiges 2" tvg-logo="https://fr.web.img6.acsta.net/pictures/19/10/25/15/08/5952325.jpg" group-title="Enfant",La reine des neiges 2
-http://stream.youp.lol/a/6zbuHXiuCdHZ57fZOlfUknpzCjU.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Le Parc Des Merveilles" tvg-logo="https://fr.web.img2.acsta.net/pictures/19/01/30/10/36/3139738.jpg" group-title="Enfant",Le Parc Des Merveilles
-http://stream.youp.lol/l/Le%20Parc%20des%20merveilles.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escape From Planet Earth" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/915r%2BnZT2%2BL._SL1500_.jpg" group-title="Enfant",Escape From Planet Earth
-http://stream.youp.lol/l/Les%20Zvads%20de%20lespace%20(Escape%20from%20Planet%20Earth)%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LadyBug" tvg-logo="https://www.themoviedb.org/t/p/w500/U3wN0xJYdZR2Gi1U79U8EZPxOd.jpg" group-title="Enfant",LadyBug
-http://stream.youp.lol/t/The%20Ladybug.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Avengers Endgame" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" group-title="Enfant",Avengers Endgame
-http://188.165.227.112/portail/films/Avengers%20Endgame%202019%201080p%20VFF%20EN%20X264%20AC3-mHDgz.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Batman Superman Dawn Of Justice" tvg-logo="https://i.pinimg.com/originals/e5/71/41/e571414587e53559bdeba51ba1724445.jpg" group-title="Enfant",Batman Superman Dawn Of Justice
-http://188.165.227.112/portail/films/Batman%20v%20Superman%20Dawn%20Of%20Justice%202016%20EXTENDED%20MULTi%20VFF%20AC3-DTS%201080p%20HDLight%20x264.GHT.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Thor" tvg-logo="https://www.themoviedb.org/t/p/w500/yw7gr7DhHHVTLlO8Se8uH17TDMA.jpg" group-title="Enfant",Thor
-http://stream.youp.lol/c/cZFz5cTmzem6Q15v1jguT63hi52.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ironman" tvg-logo="https://i.pinimg.com/originals/a4/f1/f6/a4f1f6c1efdb834471deaae8f77940c8.jpg" group-title="Enfant",Ironman
-http://stream.youp.lol/i/Iron%20Man%201%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ironman 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg" group-title="Enfant",Ironman 2
-http://stream.youp.lol/i/Iron%20Man%202%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ironman 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_.jpg" group-title="Enfant",Ironman 3
-http://stream.youp.lol/i/Iron%20Man%203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Captain America Civilwar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg" group-title="Enfant",Captain America Civil War
-http://stream.youp.lol/c/Captain%20America%20%20Civil%20War%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic World" tvg-logo="https://static.toiimg.com/thumb/msid-64539776,imgsize-93700,width-800,height-600,resizemode-75/64539776.jpg" group-title="Enfant",Jurassic World
-http://stream.youp.lol/j/Jurassic%20World%202015%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/wb-2069796_6000119228-Full-Image_GalleryCover-en-GB-1572950922869._UR1920,1080_RI_.jpg" group-title="Enfant",Godzilla
-http://stream.youp.lol/r/rmM0NovZxrIT9f6OIoUyzWwRQ1L.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comédies" tvg-logo="https://images.samsung.com/is/image/samsung/p5/ie/tvs/smart-tv/samsung-tv-plus/6.png?$ORIGIN_PNG$" group-title="Films",Comédies
+https://e4d1581301dd446495286986116b1679.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D448%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="" tvg-name="Movies Central" tvg-logo="https://w7.pngwing.com/pngs/626/319/png-transparent-movie-central-the-movie-network-television-channel-corus-entertainment-movies-miscellaneous-television-text.png" group-title="Films",Movies Central
+https://61711202639b4050845a8a1f02ec4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_MoviesCentralByTVPlayer/playlist.m3u8?ads.wurl_channel%3D522%26ads.wurl_name%3DMoviesCentralByTVPlayer%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="" tvg-name="Ciné" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG.png" group-title="Films",Ciné
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Retro" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png" group-title="Films",Ciné Retro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://image.pngaaa.com/380/5477380-middle.png" group-title="Films",Action
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Romance" tvg-logo="https://i.ytimg.com/vi/nhPfeednJTI/maxresdefault.jpg" group-title="Films",Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60812fc8539963000707d1e1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Romance" tvg-logo="https://i.ytimg.com/vi/nhPfeednJTI/maxresdefault.jpg" group-title="Films",Romance
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="L'age de glace 2" tvg-logo="https://www.telerama.fr/sites/tr_master/files/3eb6b9ba-95fe-4dbe-bcec-aab795fe1280_2.jpg" group-title="Enfant",L'age de glace 2
-http://188.165.227.112/portail/films/L'%c3%a2ge%20de%20glace%204%20-%20la%20d%c3%a9rive%20des%20continents%20FRENCH%20DVDRip%20Xvid-NERD.avi
-#EXTINF:-1 tvg-id="" tvg-name="Lilo et Stitch" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/LiloandStitchmovieposter.jpg" group-title="Enfant",Lilo et Stitch
-http://stream.youp.lol/l/Lilo%20%20Stitch%202%20%20Hawa%20nous%20avons%20un%20problme%20(Lilo%20%20Stitch%202%20%20Stitch%20Has%20a%20Glitch)%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Star" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/The_Star_%282017_film%29_poster.jpg" group-title="Enfant",The Star
-http://stream.youp.lol/b/BA26E2B15A8BBDECF5E267E9432AD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Clochette et la creature legendaire" tvg-logo="https://i.pinimg.com/originals/e9/10/89/e91089ff76fc8ebbecbf289eac072c92.jpg" group-title="Enfant",Clochette et la creature legendaire
-http://stream.youp.lol/c/Clochette%20et%20la%20crature%20lgendaire.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Clochette et la fee pirate" tvg-logo="https://www.chroniquedisney.fr/imgAnimation/2010/2014-clochette-fee-pirate-01-big.jpg" group-title="Enfant",Clochette et la fee pirate
-http://stream.youp.lol/c/Clochette%20et%20la%20fe%20pirate.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beat Bugs" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTcxODk4ZWQtOTA2Yy00MGEyLWFkMTgtMzZkY2QyYTM3Njk3XkEyXkFqcGdeQXVyODcxMDQ0MDk@._V1_.jpg" group-title="Enfant",Beat Bugs
-http://stream.youp.lol/d/D25AAF8D4D3F8CB44878B2E2D91E6.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drole de petites betes" tvg-logo="https://fr.web.img6.acsta.net/pictures/17/11/03/16/49/0995685.jpg" group-title="Enfant",Drole de petites betes
-http://stream.youp.lol/f/F79E1DDD971485D7FA1D5C4145E7C.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Planes" tvg-logo="https://i.pinimg.com/236x/2f/1f/5e/2f1f5e26c2b71b9a394cc28082bc7f3e--planes-movie-planes-party.jpg" group-title="Enfant",Planes
-http://stream.youp.lol/c/cJFe9iag9gTdWmdulUlFW7r4bTO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragons et Le monde cachce" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51oRAIvdTlL.jpg" group-title="Enfant",Dragons et Le monde cachce
-http://stream.youp.lol/d/Dragons%203%20_%20Le%20monde%20cach%c3%a9%20%20%20-%202019%20-%20%5bwww.fs1.pw%5d.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bernard et Bianca au pays des kangourous" tvg-logo="https://fr.web.img4.acsta.net/pictures/17/07/10/16/28/487170.jpg" group-title="Enfant",Bernard et Bianca au pays des kangourous
-http://stream.youp.lol/b/Bernard%20et%20Bianca%20au%20pays%20des%20kangourous.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brother Bear" tvg-logo="https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-movie/brother-bear-poster.jpg?itok=5kCbFING" group-title="Enfant",Brother Bear
-http://stream.youp.lol/e/e8KTz5sBBfDoCwg8oEpC1gsBvsW.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kuzco 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Kronk%27s_New_Groove_cover.jpg/220px-Kronk%27s_New_Groove_cover.jpg" group-title="Enfant",Kuzco 2
-http://stream.youp.lol/e/empreur%20nouveau%20genre%202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dory" tvg-logo="https://images.moviesanywhere.com/611537e3e390ceedd5cebdd5e584279f/48fbb099-a78c-4a97-ac04-55152ea4733a.jpg" group-title="Enfant",Dory
-http://stream.youp.lol/e/etzjklXHTWTPKKstdbfwjVC3Moo.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Le Roi Lion 3" tvg-logo="https://disney-planet.fr/wp-content/uploads/2017/07/le-roi-lion-3-bande-originale.jpg" group-title="Enfant",Le Roi Lion 3
-http://stream.youp.lol/h/hOZ6ugXY2dblyhGsuizkbL03m83.mp4
-#EXTINF:-1 tvg-id="" tvg-name="101 Dalmatiens" tvg-logo="https://fr.web.img4.acsta.net/medias/nmedia/18/65/83/79/20193459.jpg" group-title="Enfant",101 Dalmatiens
-http://stream.youp.lol/i/i0it09qQB6kz7FDf7n0wRBmKyOQ.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Le Chateau ambulant" tvg-logo="https://fr.web.img6.acsta.net/medias/nmedia/18/35/48/22/18399898.jpg" group-title="Enfant",Le Chateau ambulant
-http://stream.youp.lol/l/Le%20Chteau%20ambulant%20(Hauru%20no%20ugoku%20shiro)2005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Jungle Book" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Thejunglebook_movieposter.jpg" group-title="Enfant",The Jungle Book
-http://stream.youp.lol/l/Le%20Livre%20de%20la%20jungle%20(The%20Jungle%20Book)%201967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Le Manége enchante" tvg-logo="https://www.ecranlarge.com/media/cache/1600x1200/uploads/image/001/121/ouahrjvi6iqeljwlzs4otjfb8vu-219.jpg" group-title="Enfant",Le Manége enchante
-http://stream.youp.lol/l/Le%20Mange%20enchant%20(The%20Magic%20Roundabout%20Movie)2005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mickey" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Mickey%2C_Donald%2C_Goofy_-_The_Three_Musketeers_poster.jpg/220px-Mickey%2C_Donald%2C_Goofy_-_The_Three_Musketeers_poster.jpg" group-title="Enfant",Mickey
-http://stream.youp.lol/p/pjwEBWe3ni4ZeufLLXXOrvakdJe.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Angry Bird" tvg-logo="https://i.pinimg.com/originals/3e/7d/ce/3e7dcef50d92039af002b5355f9015f6.jpg" group-title="Enfant",Angry Bird
-http://stream.youp.lol/a/5QQNrX1CjSWKAa1dBMc93rzTe85.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Moana" tvg-logo="https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-movie/moana-poster00.jpg?itok=D37Zm4Jv" group-title="Enfant",Moana
-http://stream.youp.lol/v/Vaiana%20la%20lgende%20du%20bout%20du%20monde%20(Moana).mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vic Le Vicking" tvg-logo="https://cinema.mu/wp-content/uploads/2019/12/vic-the-viking-poster-500x740.jpg" group-title="Enfant",Vic Le Vicking
-http://stream.youp.lol/a/6B8CfAYTzR9Twses0T08ylNVXlH.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Bumblebee" tvg-logo="https://i.pinimg.com/originals/7a/9d/07/7a9d07e66479430ec9c8c07695f037a5.jpg" group-title="Enfant",Bumblebee
-http://stream.youp.lol/b/Bumblebee.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Transformers Revenge of the fallen" tvg-logo="https://i.pinimg.com/originals/41/41/b6/4141b602b64d2d5c4264ff7f899145a4.jpg" group-title="Enfant",Transformers Revenge of the fallen
-http://stream.youp.lol/e/eKeSLc1l3urEgyOzaXXpSy9DmqC.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Transformers Age of Extinction" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1_UY1200_CR69,0,630,1200_AL_.jpg" group-title="Enfant",Transformers Age of Extinction
-http://stream.youp.lol/q/qNrQD5arbk10PTCTMB8Xh2VejLr.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terminator Genisys" tvg-logo="https://i.pinimg.com/originals/ef/06/e3/ef06e348619ef8378560b3167cf7cad7.jpg" group-title="Enfant",Terminator Genisys
-http://stream.youp.lol/t/tBhVwyhBBCGTHvkiUhMv5qlhZpW.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guardian of the galaxy 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A11Agdd1EQL._AC_SL1500_.jpg" group-title="Enfant",Guardian of the galaxy 2
-http://stream.youp.lol/a/8Xo5iajzeK1PYeidHK2PPsgli2x.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic Game" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJkMzE4ZTAtOTY1ZS00YmZjLWI2MzQtZTg4MzdiN2U4NmUyXkEyXkFqcGdeQXVyMTUwMzY1MDM@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="Enfant",Jurassic Game
-http://stream.youp.lol/e/EC3D2B4DCFB29ABAACFF8D8C83376.mp4
 
 
 
